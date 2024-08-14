@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875808448465",
+    "project_id": "taskviewer-59c52",
+    "storage_bucket": "taskviewer-59c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875808448465:android:daa24f37b17c3eb50acaf0",
+        "android_client_info": {
+          "package_name": "com.example.taskviewer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Ms26psH4_HltlDazkvoMDW9v8whT4H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

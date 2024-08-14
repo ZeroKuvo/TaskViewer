@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskViewer</string>
+    <string name="add_task">Agregar Tarea</string>
+    <string name="back">Regresar</string>
+</resources>
